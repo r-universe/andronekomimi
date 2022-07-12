@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "Imetagene"]
-	path = Imetagene
-	url = https://github.com/andronekomimi/imetagene
-	shallow = true
-	registered = true
